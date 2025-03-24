@@ -1,7 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+html, body {
+    height: 100%;
+}
 hr {
     height: 2px;
     background-color: grey;

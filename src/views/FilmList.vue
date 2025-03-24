@@ -11,7 +11,6 @@
             </div>
             </div>
         </div>
-        <div>----- {{favoriter.favFilms}}  ---</div>
     </div>
     
     <div v-else class="p-10 text-3xl text-red-700 font-bold">Loading Film List View</div>
